@@ -58,8 +58,8 @@ export default function LoginPage() {
             <div className="w-12 h-12 bg-primary rounded-lg flex items-center justify-center mx-auto mb-4">
               <span className="text-white font-bold text-lg">🍽️</span>
             </div>
-            <CardTitle className="text-2xl">Welcome to SchoolEats</CardTitle>
-            <CardDescription>Sign in to your account to start ordering</CardDescription>
+            <CardTitle className="text-2xl">Welcome to Kakis</CardTitle>
+            <CardDescription>Sign in to your account to start ordering delicious food</CardDescription>
           </CardHeader>
           <CardContent>
             <Tabs value={loginType} onValueChange={setLoginType}>
@@ -184,7 +184,7 @@ export default function LoginPage() {
                 <div className="space-y-4">
                   <div className="space-y-2">
                     <Label htmlFor="admin-email">Admin Email</Label>
-                    <Input id="admin-email" type="email" placeholder="admin@schooleats.com" />
+                    <Input id="admin-email" type="email" placeholder="admin@kakis.com" />
                   </div>
                   <div className="space-y-2">
                     <Label htmlFor="admin-password">Password</Label>

@@ -128,7 +128,7 @@ export default function AdminDashboard() {
           <div className="flex items-center justify-between">
             <div>
               <h1 className="text-xl font-bold">Admin Dashboard</h1>
-              <p className="text-sm text-muted-foreground">SchoolEats Management Portal</p>
+              <p className="text-sm text-muted-foreground">Kakis Management Portal</p>
             </div>
             <div className="flex items-center space-x-4">
               <Button variant="outline">Settings</Button>

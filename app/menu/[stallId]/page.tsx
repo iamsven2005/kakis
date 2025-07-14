@@ -16,7 +16,7 @@ const stallData = {
     rating: 4.8,
     deliveryTime: "15-25 min",
     minOrder: 10,
-    image: "/placeholder.svg?height=200&width=400",
+    image: "/images/asian-delights-banner.png",
   },
 }
 
@@ -26,7 +26,7 @@ const menuItems = [
     name: "Chicken Fried Rice",
     description: "Wok-fried rice with tender chicken, vegetables, and aromatic spices",
     price: 8.5,
-    image: "/placeholder.svg?height=150&width=200",
+    image: "/images/chicken-fried-rice.png",
     category: "Rice Dishes",
     popular: true,
   },
@@ -35,7 +35,7 @@ const menuItems = [
     name: "Beef Noodle Soup",
     description: "Rich broth with tender beef slices and fresh noodles",
     price: 9.8,
-    image: "/placeholder.svg?height=150&width=200",
+    image: "/images/beef-noodle-soup.png",
     category: "Noodles",
     popular: true,
   },
@@ -44,7 +44,7 @@ const menuItems = [
     name: "Sweet & Sour Pork",
     description: "Crispy pork with bell peppers in tangy sweet and sour sauce",
     price: 10.2,
-    image: "/placeholder.svg?height=150&width=200",
+    image: "/images/sweet-sour-pork.png",
     category: "Main Dishes",
   },
   {
@@ -52,7 +52,7 @@ const menuItems = [
     name: "Vegetable Spring Rolls",
     description: "Crispy rolls filled with fresh vegetables, served with dipping sauce",
     price: 5.5,
-    image: "/placeholder.svg?height=150&width=200",
+    image: "/images/spring-rolls.png",
     category: "Appetizers",
   },
   {
@@ -60,7 +60,7 @@ const menuItems = [
     name: "Kung Pao Chicken",
     description: "Spicy stir-fried chicken with peanuts and vegetables",
     price: 9.5,
-    image: "/placeholder.svg?height=150&width=200",
+    image: "/images/kung-pao-chicken.png",
     category: "Main Dishes",
   },
   {
@@ -68,7 +68,7 @@ const menuItems = [
     name: "Thai Green Curry",
     description: "Aromatic green curry with coconut milk and fresh herbs",
     price: 11.0,
-    image: "/placeholder.svg?height=150&width=200",
+    image: "/images/thai-green-curry.png",
     category: "Curry",
   },
 ]

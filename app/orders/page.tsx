@@ -95,7 +95,9 @@ export default function OrdersPage() {
               <Clock className="w-8 h-8 text-muted-foreground" />
             </div>
             <h3 className="text-lg font-semibold mb-2">No orders yet</h3>
-            <p className="text-muted-foreground mb-6">When you place your first order, it will appear here.</p>
+            <p className="text-muted-foreground mb-6">
+              When you place your first order with Kakis, it will appear here.
+            </p>
             <Link href="/">
               <Button>Browse Food Stalls</Button>
             </Link>

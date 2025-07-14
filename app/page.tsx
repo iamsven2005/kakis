@@ -9,7 +9,7 @@ const foodStalls = [
     id: 1,
     name: "Asian Delights",
     description: "Authentic Asian cuisine with fresh ingredients",
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/images/asian-delights-stall.png",
     rating: 4.8,
     deliveryTime: "15-25 min",
     minOrder: 10,
@@ -20,7 +20,7 @@ const foodStalls = [
     id: 2,
     name: "Western Grill",
     description: "Burgers, sandwiches, and grilled favorites",
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/images/western-grill-stall.png",
     rating: 4.6,
     deliveryTime: "20-30 min",
     minOrder: 12,
@@ -31,7 +31,7 @@ const foodStalls = [
     id: 3,
     name: "Healthy Bowls",
     description: "Fresh salads, smoothie bowls, and healthy options",
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/images/healthy-bowls-stall.png",
     rating: 4.7,
     deliveryTime: "10-20 min",
     minOrder: 8,
@@ -42,7 +42,7 @@ const foodStalls = [
     id: 4,
     name: "Local Favorites",
     description: "Traditional local dishes and comfort food",
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/images/local-favorites-stall.png",
     rating: 4.9,
     deliveryTime: "15-25 min",
     minOrder: 10,
@@ -62,7 +62,7 @@ export default function HomePage() {
               <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
                 <span className="text-white font-bold text-sm">🍽️</span>
               </div>
-              <h1 className="text-xl font-bold">SchoolEats</h1>
+              <h1 className="text-xl font-bold">Kakis</h1>
             </div>
             <div className="flex items-center space-x-4">
               <Link href="/orders">
@@ -79,10 +79,10 @@ export default function HomePage() {
       {/* Hero Section */}
       <section className="bg-gradient-to-r from-primary/10 to-primary/5 py-12">
         <div className="container mx-auto px-4 text-center">
-          <h2 className="text-4xl font-bold mb-4">Delicious Food, Delivered Fast</h2>
+          <h2 className="text-4xl font-bold mb-4">Delicious Food, Delivered by Kakis</h2>
           <p className="text-lg text-muted-foreground mb-8 max-w-2xl mx-auto">
             Order from your favorite school food stalls and get it delivered by fellow students. Fresh, fast, and
-            convenient!
+            convenient food delivery system for students!
           </p>
           <div className="flex items-center justify-center space-x-6 text-sm text-muted-foreground">
             <div className="flex items-center space-x-2">
@@ -171,7 +171,7 @@ export default function HomePage() {
       {/* Features */}
       <section className="py-12 bg-muted/30">
         <div className="container mx-auto px-4">
-          <h3 className="text-2xl font-bold text-center mb-8">Why Choose SchoolEats?</h3>
+          <h3 className="text-2xl font-bold text-center mb-8">Why Choose Kakis?</h3>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="text-center">
               <div className="w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center mx-auto mb-4">
@@ -212,7 +212,7 @@ export default function HomePage() {
               <div className="w-6 h-6 bg-primary rounded flex items-center justify-center">
                 <span className="text-white text-xs">🍽️</span>
               </div>
-              <span className="font-semibold">SchoolEats</span>
+              <span className="font-semibold">Kakis</span>
             </div>
             <div className="flex items-center space-x-6 text-sm text-muted-foreground">
               <Link href="/partner" className="hover:text-foreground">

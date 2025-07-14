@@ -72,7 +72,7 @@ export default function PartnerDashboard() {
           <div className="flex items-center justify-between">
             <div>
               <h1 className="text-xl font-bold">Partner Dashboard</h1>
-              <p className="text-sm text-muted-foreground">Welcome back, John!</p>
+              <p className="text-sm text-muted-foreground">Welcome back to Kakis, John!</p>
             </div>
             <div className="flex items-center space-x-4">
               <div className="text-right">
