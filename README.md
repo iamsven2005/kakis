@@ -2,7 +2,7 @@
 
 A comprehensive food delivery system designed specifically for educational institutions, connecting students with campus food stalls through a peer-to-peer delivery network.
 
-![Kakis Banner](https://via.placeholder.com/1200x400/6366f1/ffffff?text=Kakis+-+Food+Delivery+for+Students)
+![Kakis Project Presentation](https://www.canva.com/design/DAFg_qQd7oo/1pCmW94AAa9VlsoxtfHWDw/view?utm_content=DAFg_qQd7oo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h91f5f03790)
 
 ## 📋 Table of Contents
 
