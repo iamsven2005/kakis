@@ -6,8 +6,8 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Kakis - Food Delivery System for Students",
-  description: "Order from your favorite school food stalls and get it delivered by fellow students with Kakis",
+  title: "Kakis - Food Delivery for Students",
+  description: "Order from your favorite school food stalls and get it delivered by fellow students",
     generator: 'v0.dev'
 }
 

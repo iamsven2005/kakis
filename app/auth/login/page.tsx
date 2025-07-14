@@ -59,7 +59,7 @@ export default function LoginPage() {
               <span className="text-white font-bold text-lg">🍽️</span>
             </div>
             <CardTitle className="text-2xl">Welcome to Kakis</CardTitle>
-            <CardDescription>Sign in to your account to start ordering delicious food</CardDescription>
+            <CardDescription>Sign in to your account to start ordering</CardDescription>
           </CardHeader>
           <CardContent>
             <Tabs value={loginType} onValueChange={setLoginType}>

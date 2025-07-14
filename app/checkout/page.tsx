@@ -165,7 +165,7 @@ export default function CheckoutPage() {
             <Card>
               <CardHeader>
                 <CardTitle>Order Summary</CardTitle>
-                <CardDescription>Asian Delights</CardDescription>
+                <CardDescription>Kakis</CardDescription>
               </CardHeader>
               <CardContent className="space-y-4">
                 {cartItems.map((item) => (
